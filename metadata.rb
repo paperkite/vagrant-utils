@@ -1,0 +1,6 @@
+name 'pk-vagrant-utils'
+maintainer 'Patrick Hindmarsh'
+maintainer_email 'patrick@paperkite.co.nz'
+license 'MIT'
+description 'Common configuration for PaperKite Vagrant machines'
+version '0.1.0'
