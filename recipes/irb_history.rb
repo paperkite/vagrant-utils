@@ -4,7 +4,7 @@
 #
 # Configures IRB to save history between sessions
 
-cookbook_file "/home/vagrant/.irbc" do
+cookbook_file "/home/vagrant/.irbrc" do
   source "irb_history.rb"
   owner "vagrant"
   group "vagrant"
